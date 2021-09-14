@@ -7,5 +7,5 @@ function secondChange(){
 }
 
 function math(){
-    document.getElementById("mathTest").innerHTML = 7 + 3;
+    document.getElementById("woof").innerHTML = 7 + 3;
 }
