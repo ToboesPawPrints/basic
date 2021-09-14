@@ -5,3 +5,7 @@ function firstChange(){
 function secondChange(){
     document.getElementById("testMeow").innerHTML = "2nd Change Now in File";
 }
+
+function math(){
+    document.getElementById("mathTest").innerHTML = 7 + 3;
+}
