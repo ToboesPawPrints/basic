@@ -14,5 +14,5 @@ function math(){
 math.id = mathTest;
 
 function displayMath(){
-    document.addEventListener("load", math);
+    document.addEventListener("load", math());
 }
