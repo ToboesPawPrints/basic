@@ -6,8 +6,8 @@ function secondChange(){
     document.getElementById("testMeow").innerHTML = "2nd Change Now in File";
 }
 
-
 function displayMath(){
     document.addEventListener("load", 10);
 }
 
+displayMath();
